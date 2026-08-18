@@ -1,27 +1,39 @@
-# Hi, I'm Carlos Alvis
+# Hey, I'm Carlos Alvis
 
-**Systems Engineer focused on AI automation, n8n workflows, APIs, webhooks, LLMs and web development.**
+**Systems Engineer | AI Automation | n8n | APIs | Webhooks | LLMs | Web Development**
 
 I build practical digital solutions that connect tools, automate repetitive tasks and improve real business processes.
 
+My main focus is applied AI, workflow automation, API integrations and web development for small and medium businesses.
+
 ---
 
-## About me
+## Professional Focus
+
+```text
+AI Automation & n8n        ████████████████████░   40%
+Web Development            ████████████░░░░░░░░░   25%
+API Integrations           ██████████░░░░░░░░░░░   20%
+Databases & Backend        ███████░░░░░░░░░░░░░░   15%
+```
+
+---
+
+## About Me
 
 I am a Systems Engineer with experience in web development, process automation and applied artificial intelligence.
 
-My main focus is building solutions with:
+I enjoy solving real operational problems by connecting systems, reducing manual work and creating workflows that are useful, maintainable and scalable.
 
-- AI agents and LLMs
-- n8n workflows
-- API integrations
-- Webhooks
+My work is focused on:
+
+- AI agents and LLM-based workflows
+- n8n automation
+- API consumption and webhooks
 - Business process automation
 - WordPress and web development
 - SQL databases
 - Practical tools for small and medium businesses
-
-I enjoy solving real operational problems by connecting systems, reducing manual work and creating workflows that are useful, maintainable and scalable.
 
 ---
 
@@ -29,31 +41,49 @@ I enjoy solving real operational problems by connecting systems, reducing manual
 
 ### Automation & AI
 
-![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-LLM%20Automation-6A5ACD?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-AI%20Workflows-111827?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-LLMs-412991?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-AI%20Assistant-8A5CF6?style=for-the-badge)
-![Codex](https://img.shields.io/badge/Codex-AI%20Coding-111827?style=for-the-badge)
-![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-AI%20Development-4285F4?style=for-the-badge)
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-LLM%20Automation-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-AI%20Workflows-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-LLMs-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude-AI%20Assistant-8A5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Codex-AI%20Coding-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini%20CLI-AI%20Development-4285F4?style=for-the-badge" />
+</p>
 
 ### Web Development & Databases
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,postgres,mysql,git,github,wordpress)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,postgres,mysql,git,github,wordpress" />
+</p>
 
-### Integrations
+### Integrations & Tools
 
-![APIs](https://img.shields.io/badge/APIs-REST%20Integrations-009688?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/Webhooks-System%20Integration-000000?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Automation-34A853?style=for-the-badge)
-![Gmail](https://img.shields.io/badge/Gmail-Automation-EA4335?style=for-the-badge)
+<p align="left">
+  <img src="https://img.shields.io/badge/APIs-REST%20Integrations-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Webhooks-System%20Integration-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-Automation-34A853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gmail-Automation-EA4335?style=for-the-badge" />
+</p>
+
+---
+
+## Technical Areas
+
+| Area | Tools / Technologies | Focus |
+|---|---|---|
+| AI Automation | n8n, LLMs, AI Agents, Prompt Engineering | Automating real business processes |
+| APIs & Integrations | REST APIs, Webhooks, Postman | Connecting external systems |
+| Web Development | WordPress, Elementor, HTML, CSS, JavaScript | Landing pages, websites and forms |
+| Databases | PostgreSQL, MySQL, SQL | Data organization and workflow support |
+| AI-Assisted Development | ChatGPT, Claude, Codex, Gemini CLI | Debugging, documentation and logic improvement |
 
 ---
 
 ## Featured Projects
 
-### 1. Multimodal AI Agent Architecture with n8n
+### Multimodal AI Agent Architecture with n8n
 
 Workflow architecture built with n8n to process different types of inputs, route requests and coordinate specialized AI agents.
 
@@ -71,7 +101,7 @@ Workflow architecture built with n8n to process different types of inputs, route
 
 ---
 
-### 2. Smart Receptionist for Small Businesses
+### Smart Receptionist for Small Businesses
 
 Automation concept for small businesses that need to manage customer requests, classify messages and reduce repetitive communication.
 
@@ -88,7 +118,7 @@ Automation concept for small businesses that need to manage customer requests, c
 
 ---
 
-### 3. Landing Page + Automation System
+### Landing Page + Automation System
 
 A web automation flow where a landing page form is connected to n8n to capture users, validate information and trigger business workflows.
 
@@ -105,7 +135,7 @@ A web automation flow where a landing page form is connected to n8n to capture u
 
 ---
 
-### 4. BarberAgency Case Study
+### BarberAgency Case Study
 
 SaaS-style project for barbershops focused on appointments, services, barbers, dashboards and automation.
 
@@ -127,16 +157,35 @@ SaaS-style project for barbershops focused on appointments, services, barbers, d
 
 I use AI tools to support development, documentation, debugging, prompt creation and workflow improvement.
 
-- ChatGPT
-- Claude
-- Claude Code
-- Codex
-- Gemini
-- Gemini CLI
+| Tool | How I use it |
+|---|---|
+| ChatGPT | Technical research, prompts, documentation and workflow design |
+| Claude | Logic review, writing, documentation and analysis |
+| Claude Code | AI-assisted development and debugging |
+| Codex | Code support, technical problem solving and refactoring |
+| Gemini CLI | Development support, terminal-based assistance and analysis |
 
 ---
 
-## What I am currently building
+## GitHub Stats
+
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosalvis-labs&show_icons=true&theme=tokyonight)
+
+---
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosalvis-labs&layout=compact&theme=tokyonight)
+
+---
+
+## Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=carlosalvis-labs&theme=tokyonight)
+
+---
+
+## What I Am Currently Building
 
 I am currently creating a portfolio of practical AI automation projects focused on small and medium businesses.
 
@@ -150,7 +199,7 @@ Upcoming projects:
 
 ---
 
-## Professional Focus
+## Professional Goal
 
 My goal is to keep growing in roles related to:
 
