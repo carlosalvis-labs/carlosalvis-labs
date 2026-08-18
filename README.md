@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/carlosalvis-labs/carlosalvis-labs/main/assets/hero-carlos-alvis.png" alt="Carlos Alvis Hero Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/carlosalvis-labs/carlosalvis-labs/main/hero-carlos-alvis.png" alt="Carlos Alvis Hero Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Carlos Alvis 👋</h1>
