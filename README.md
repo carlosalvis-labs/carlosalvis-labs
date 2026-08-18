@@ -28,7 +28,7 @@ I enjoy solving real operational problems by connecting systems, reducing manual
 My work is focused on:
 
 - AI agents and LLM-based workflows
-- n8n automation
+- n8n workflow automation
 - API consumption and webhooks
 - Business process automation
 - WordPress and web development
@@ -44,11 +44,19 @@ My work is focused on:
 <p align="left">
   <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Agents-LLM%20Automation-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-AI%20Workflows-412991?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-AI%20Workflows-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-LLMs-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Claude-AI%20Assistant-8A5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Codex-AI%20Coding-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini%20CLI-AI%20Development-4285F4?style=for-the-badge" />
+</p>
+
+### AI Tools I Use
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-AI%20Assistant-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-AI%20Assistant-D97757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude%20Code-AI%20Coding-8A5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Codex-AI%20Coding-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-AI%20Assistant-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20CLI-AI%20Development-34A853?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ### Web Development & Databases
@@ -77,7 +85,7 @@ My work is focused on:
 | APIs & Integrations | REST APIs, Webhooks, Postman | Connecting external systems |
 | Web Development | WordPress, Elementor, HTML, CSS, JavaScript | Landing pages, websites and forms |
 | Databases | PostgreSQL, MySQL, SQL | Data organization and workflow support |
-| AI-Assisted Development | ChatGPT, Claude, Codex, Gemini CLI | Debugging, documentation and logic improvement |
+| AI-Assisted Development | ChatGPT, Claude, Claude Code, Codex, Gemini CLI | Debugging, documentation and logic improvement |
 
 ---
 
@@ -153,35 +161,39 @@ SaaS-style project for barbershops focused on appointments, services, barbers, d
 
 ---
 
-## AI Tools I Use
+## Current Portfolio Progress
 
-I use AI tools to support development, documentation, debugging, prompt creation and workflow improvement.
-
-| Tool | How I use it |
-|---|---|
-| ChatGPT | Technical research, prompts, documentation and workflow design |
-| Claude | Logic review, writing, documentation and analysis |
-| Claude Code | AI-assisted development and debugging |
-| Codex | Code support, technical problem solving and refactoring |
-| Gemini CLI | Development support, terminal-based assistance and analysis |
+```text
+Profile README              ████████████████████░   90%
+n8n Automation Projects     ████████░░░░░░░░░░░░░   40%
+AI Agent Workflows          ███████░░░░░░░░░░░░░░   35%
+API Integration Projects    ██████░░░░░░░░░░░░░░░   30%
+Web + Automation Projects   ██████░░░░░░░░░░░░░░░   30%
+```
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosalvis-labs&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=carlosalvis-labs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
 
 ---
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosalvis-labs&layout=compact&theme=tokyonight)
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosalvis-labs&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## Contribution Streak
+## GitHub Achievements
 
-![GitHub Streak](https://streak-stats.demolab.com?user=carlosalvis-labs&theme=tokyonight)
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=carlosalvis-labs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
