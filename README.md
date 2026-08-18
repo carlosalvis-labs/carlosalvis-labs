@@ -98,7 +98,6 @@ I enjoy connecting systems, reducing manual work and creating useful workflows t
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlosalvis-labs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=carlosalvis-labs&theme=tokyonight&hide_border=true&border_radius=8&locale=en&mode=daily" height="180" />
 </p>
 
 <p align="center">
@@ -107,29 +106,15 @@ I enjoy connecting systems, reducing manual work and creating useful workflows t
 
 ---
 
-## Contribution Streak
+## Portfolio Progress
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=carlosalvis-labs&theme=tokyonight&hide_border=true&border_radius=8&locale=en&mode=daily" alt="GitHub Streak" />
-</p>
-
----
-
-## Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosalvis-labs&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlosalvis-labs&theme=tokyonight" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carlosalvis-labs&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosalvis-labs&theme=tokyonight" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlosalvis-labs&theme=tokyonight&utcOffset=-5" height="170" />
-</p>
+```text
+Profile README              ████████████████████░   90%
+n8n Automation Projects     ████████░░░░░░░░░░░░░   40%
+AI Agent Workflows          ███████░░░░░░░░░░░░░░   35%
+API Integration Projects    ██████░░░░░░░░░░░░░░░   30%
+Web + Automation Projects   ██████░░░░░░░░░░░░░░░   30%
+```
 
 ---
 
@@ -201,18 +186,6 @@ SaaS-style project for barbershops focused on appointments, services, barbers, d
 - Workflow automation
 
 **Technologies:** PostgreSQL, PostgREST, WordPress, APIs, n8n, webhooks, AI-assisted development.
-
----
-
-## Current Portfolio Progress
-
-```text
-Profile README              ████████████████████░   90%
-n8n Automation Projects     ████████░░░░░░░░░░░░░   40%
-AI Agent Workflows          ███████░░░░░░░░░░░░░░   35%
-API Integration Projects    ██████░░░░░░░░░░░░░░░   30%
-Web + Automation Projects   ██████░░░░░░░░░░░░░░░   30%
-```
 
 ---
 
